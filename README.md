@@ -1,6 +1,8 @@
 # Kresu24-public
 This is my Public folder, where i put, me reminders, and other Open Source projects in.
 
+---
+
 ## 🟢 active
 
 ---
@@ -13,5 +15,7 @@ This is my Public folder, where i put, me reminders, and other Open Source proje
 ## 🚨 Other
 - <a href="https://github.com/portalninja2/game-eggs">🥚 Pterodactyl game eggs</a>
 
+---
+
 ## 📱 Socials
-- at the momentttt nothing
+- at the moment nothing
